@@ -16,6 +16,7 @@
 		1A1A99F620441D76003ACB14 /* XZAlertControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A99F520441D76003ACB14 /* XZAlertControllerTests.m */; };
 		1A1A9A0120441D76003ACB14 /* XZAlertControllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A9A0020441D76003ACB14 /* XZAlertControllerUITests.m */; };
 		1A1A9A1220441DE6003ACB14 /* XZAlertController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A1A9A1020441DE6003ACB14 /* XZAlertController.m */; };
+		1A1A9A1620442F7B003ACB14 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 1A1A9A1520442F7B003ACB14 /* 1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		1A1A9A0220441D76003ACB14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A1A9A1020441DE6003ACB14 /* XZAlertController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XZAlertController.m; sourceTree = "<group>"; };
 		1A1A9A1120441DE6003ACB14 /* XZAlertController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XZAlertController.h; sourceTree = "<group>"; };
+		1A1A9A1520442F7B003ACB14 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		1A1A99D020441D76003ACB14 = {
 			isa = PBXGroup;
 			children = (
+				1A1A9A1520442F7B003ACB14 /* 1.png */,
 				1A1A99DB20441D76003ACB14 /* XZAlertController */,
 				1A1A99F420441D76003ACB14 /* XZAlertControllerTests */,
 				1A1A99FF20441D76003ACB14 /* XZAlertControllerUITests */,
@@ -252,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A1A99E920441D76003ACB14 /* LaunchScreen.storyboard in Resources */,
+				1A1A9A1620442F7B003ACB14 /* 1.png in Resources */,
 				1A1A99E620441D76003ACB14 /* Assets.xcassets in Resources */,
 				1A1A99E420441D76003ACB14 /* Main.storyboard in Resources */,
 			);
