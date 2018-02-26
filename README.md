@@ -22,7 +22,7 @@
 
 在传递和调用block的同时传递属性
 
-![](https://github.com/ddZhang/XZAlertController/blob/master/XZAlertController/Support%20File/1.png)
+![](https://github.com/ddZhang/XZAlertController/blob/master/XZAlertController/Support/1.png)
 
 （写成UIViewController的分类只是为了调用方便）
 
