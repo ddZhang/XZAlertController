@@ -5,7 +5,7 @@
 
 '''
 
-调用方法如下：
+    调用方法如下：
 
     [self XZ_showAlertWithTitle:@"tip" message:@"message" appearanceProcess:^(XZAlertController * _Nonnull alertMaker) {
         
@@ -17,6 +17,14 @@
     }];
     
 '''
+
+=
+
+在传递和调用block的同时传递属性
+
+![](https://github.com/ddZhang/Target_Config-Demo/blob/master/Target-Demo/images/1.png)
+
+（写成UIViewController的分类只是为了调用方便）
 
 
 
