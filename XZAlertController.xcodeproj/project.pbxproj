@@ -86,7 +86,6 @@
 		1A1A99D020441D76003ACB14 = {
 			isa = PBXGroup;
 			children = (
-				1A1A9A1520442F7B003ACB14 /* 1.png */,
 				1A1A99DB20441D76003ACB14 /* XZAlertController */,
 				1A1A99F420441D76003ACB14 /* XZAlertControllerTests */,
 				1A1A99FF20441D76003ACB14 /* XZAlertControllerUITests */,
@@ -139,6 +138,7 @@
 		1A1A9A0E20441D8D003ACB14 /* Support File */ = {
 			isa = PBXGroup;
 			children = (
+				1A1A9A1520442F7B003ACB14 /* 1.png */,
 				1A1A99E220441D76003ACB14 /* Main.storyboard */,
 				1A1A99E520441D76003ACB14 /* Assets.xcassets */,
 				1A1A99E720441D76003ACB14 /* LaunchScreen.storyboard */,
